@@ -1,0 +1,11 @@
+{
+  "browser": "chrome",
+  "google_url": "https://www.microsoft.com/en-us/",
+  "amazon_url": "https://www.amazon.com/",
+  "sqlconnect": {
+    "urlserver": "localhost",
+    "database": "mydb",
+    "user": "admin",
+    "password": "pa$$W0rd"
+  }
+}
